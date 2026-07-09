@@ -64,7 +64,7 @@
   직전 연도(2022년)의 상권 회복 트렌드를 안정적으로 이어받아, 코로나 비수기를 지나 <b>점진적으로 반등 및 우상향하는 현실적인 비즈니스 흐름</b>을 성공적으로 포착해 냈습니다.
 </p>
 <div align="center">
-  <img width="1278" height="577" alt="image" src="https://github.com/user-attachments/assets/4ecc61f7-ab93-4fff-812d-c074e3a1d15e" />
+  <img width="1078" height="377" alt="image" src="https://github.com/user-attachments/assets/4ecc61f7-ab93-4fff-812d-c074e3a1d15e" />
 </div>
 
 <br />
@@ -108,7 +108,7 @@
 
 <br />
 <div align="center">
-  <img width="507" height="529" alt="image" src="https://github.com/user-attachments/assets/954f35c9-a7cd-4c6e-a0ae-8bc595e64123" />
+  <img width="307" height="329" alt="image" src="https://github.com/user-attachments/assets/954f35c9-a7cd-4c6e-a0ae-8bc595e64123" />
 </div>
 <br />
 
